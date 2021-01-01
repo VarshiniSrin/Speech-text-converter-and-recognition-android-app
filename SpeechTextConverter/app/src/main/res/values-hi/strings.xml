@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भाषण पाठ कनवर्टर</string>
+    <string name="title_activity_navigation">पथ प्रदर्शन</string>
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="nav_header_title">Android स्टूडियो</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">नेविगेशन हेडर</string>
+    <string name="action_settings">समायोजन</string>
+
+    <string name="Home">घर</string>
+    <string name="menu_share">शेयर</string>
+    <string name="menu_send">संदेश</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">हमारे बारे में</string>
+    <string name="Privacy_Policy">गोपनीयता नीति</string>
+    <string name="FAQ">सामान्य प्रश्न</string>
+
+    <string name="Speech_Text_Converter">भाषण पाठ कनवर्टर</string>
+    <string name="Text_To_speech">लिखे हुए को बोलने में बदलना</string>
+    <string name="Speech_To_text">पाठ को भाषण</string>
+    <string name="privacy">हमने इस ऐप को एक फ्री ऐप के रूप में बनाया है। यह सेवा बिना किसी लागत के प्रदान की जाती है और इसका उपयोग करने के लिए किया जाता है। इस पृष्ठ का उपयोग निजी सूचनाओं के संग्रह, उपयोग और प्रकटीकरण के साथ हमारी नीतियों के बारे में आगंतुकों को सूचित करने के लिए किया जाता है।
+
+        \n\nसूचना संग्रह और उपयोग
+        \nहम अपने ऐप के उपयोगकर्ताओं की कोई भी जानकारी एकत्र नहीं करते हैं।
+
+        \n\nकुकीज़
+        \nयह सेवा कुकीज़ का उपयोग नहीं करती है।
+
+        \n\nसेवा प्रदाता
+        \nहम किसी भी तृतीय-पक्ष कंपनियों या व्यक्तियों को नियुक्त नहीं करते हैं।
+
+        \n\nइस गोपनीयता नीति में परिवर्तन
+        \nहम समय-समय पर अपनी गोपनीयता नीति को अपडेट कर सकते हैं। इस प्रकार, आपको किसी भी परिवर्तन के लिए समय-समय पर इस पृष्ठ की समीक्षा करने की सलाह दी जाती है।
+
+        \n\nइस पृष्ठ पर गोपनीयता नीति
+        \nयह नीति 31/12/2020 के रूप में प्रभावी है।</string>
+    <string name="User_Interface">प्रयोक्ता इंटरफ़ेस</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">जब कीबोर्ड ओपन बटनबार को छिपाएं</string>
+    <string name="Enable_dark_mode">डार्क मोड सक्षम करें</string>
+    <string name="Speak_into_the_mic">माइक में बोलो</string>
+    <string name="Enter_Text">लिखना प्रारम्भ करें</string>
+    <string name="Pitch">पिच</string>
+    <string name="Speed">गति</string>
+    <string name="Languages">बोली</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">ठीक है</string>
+    <string name="Enable_Dark_Mode">डार्क मोड सक्षम करें</string>
+    <string name="Disable_Dark_Mode">डार्क मोड को अक्षम करें</string>
+
+    <string name="Browser">हमारी वेबसाइट पर पधारें</string>
+    <string name="Email">हमें ईमेल से संपर्क करें</string>
+    <string name="Instagram">हमारे इंस्टाग्राम की जाँच करें</string>
+    <string name="Maps">हमारे स्थान की जाँच करें</string>
+
+    <string name="Text_Recognition">Text Recognition</string>
+    <string name="select_an_option">Select an option</string>
+    <string name="Saved_Files">Saved Files</string>
+</resources>

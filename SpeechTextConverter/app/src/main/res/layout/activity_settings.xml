@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context="com.example.pro.settings">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/myToolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:title="Settings"
+        app:titleMarginStart="40dp"
+        tools:ignore="MissingConstraints" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottieAnimationView2"
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_centerHorizontal="true"
+        android:translationY="370dp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/settings" />
+
+    <ImageButton
+        android:id="@+id/back4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_back"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/User_Interface"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/textColor"
+        android:textSize="20sp"
+        android:translationX="10dp"
+        android:translationY="10dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:paddingLeft="10dp"
+        android:text="@string/Languages"
+        android:gravity="left|center_vertical"
+        android:id="@+id/btn"
+        android:textColor="@color/textColor"
+        android:background="@color/backgroundColor"
+        android:outlineAmbientShadowColor="#ffffff"
+        android:paddingStart="10dp"
+        tools:ignore="RtlHardcoded,RtlSymmetry"
+        tools:targetApi="p" />
+
+    <TextView
+
+        android:id="@+id/select_language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="154dp"
+        android:textColor="@color/textColor"/>
+
+<!--    <View-->
+<!--        android:layout_width="fill_parent"-->
+<!--        android:layout_height="1dp"-->
+<!--        android:layout_below="@+id/select_language"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:background="#B8B894" />-->
+
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Enable_Dark_Mode"
+        android:textColor="@color/textColor"
+        android:textSize="14sp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/btn"
+        android:paddingLeft="10dp"
+         />
+
+
+</RelativeLayout>

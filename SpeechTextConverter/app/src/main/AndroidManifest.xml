@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pro">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/frontlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RecordListActivityCamera"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity android:name=".TextRecognition"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity android:name=".RecordListActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name=".text_to_speech"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".faq"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".about_us"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".share"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".privacy_policy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SpeechToText"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Homepage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.package.name.MainActivity" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

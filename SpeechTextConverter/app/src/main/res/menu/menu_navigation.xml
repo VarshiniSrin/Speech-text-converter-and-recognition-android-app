@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/Home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="@string/Privacy_Policy"
+        android:icon="@drawable/ic_privacy"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/menu_share"
+        android:icon="@drawable/ic_share"
+        />
+
+    <item
+        android:id="@+id/about_us"
+        android:title="@string/About_Us"
+        android:icon="@drawable/ic_info"
+        />
+
+
+
+</menu>

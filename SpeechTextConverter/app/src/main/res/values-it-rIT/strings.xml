@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertitore di testo vocale</string>
+    <string name="title_activity_navigation">Navigazione</string>
+    <string name="navigation_drawer_open">Apri il riquadro a scomparsa di navigazione</string>
+    <string name="navigation_drawer_close">Chiudi il riquadro a scomparsa di navigazione</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Intestazione di navigazione</string>
+    <string name="action_settings">impostazioni</string>
+
+    <string name="Home">Casa</string>
+    <string name="menu_share">Condividere</string>
+    <string name="menu_send">Spedire</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">Riguardo a noi</string>
+    <string name="Privacy_Policy">politica sulla riservatezza</string>
+    <string name="FAQ">Domande frequenti</string>
+
+
+    <string name="Speech_Text_Converter">Convertitore di testo vocale</string>
+    <string name="Text_To_speech">Sintesi vocale</string>
+    <string name="Speech_To_text">Discorso al testo</string>
+    <string name="privacy">Abbiamo creato questa app come app gratuita. Questo servizio è fornito gratuitamente ed è inteso per luso così comè. Questa pagina viene utilizzata per informare i visitatori in merito alle nostre politiche con la raccolta, luso e la divulgazione delle informazioni personali.
+
+        \n\nRaccolta e utilizzo di informazioni
+        \nNon raccogliamo alcuna informazione sugli utenti della nostra app.
+
+        \n\nCookies
+        \nQuesto servizio non utilizza cookie.
+
+        \n\nProvider di servizi
+        \nNon impieghiamo società o individui di terze parti.
+
+        \n\nModifiche alla presente informativa sulla privacy
+        \nPotremmo aggiornare la nostra politica sulla privacy di volta in volta. Pertanto, si consiglia di rivedere periodicamente questa pagina per eventuali modifiche.
+
+        \n\nPrivacy Policy in questa pagina
+        \nQuesta politica è in vigore dal 31/12/2020.</string>
+
+    <string name="User_Interface">Interfaccia utente</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">Nascondi ButtonBar all\'apertura della tastiera</string>
+    <string name="Enable_dark_mode">Abilita la modalità oscura</string>
+    <string name="Speak_into_the_mic">Parla nel microfono</string>
+    <string name="Enter_Text">Inserire il testo</string>
+    <string name="Pitch">Intonazione</string>
+    <string name="Speed">Velocità</string>
+    <string name="Languages">Le lingue</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">OK</string>
+    <string name="Enable_Dark_Mode">Abilita la modalità oscura</string>
+    <string name="Disable_Dark_Mode">Disabilita la modalità oscura</string>
+
+    <string name="Browser">Visita il nostro sito web</string>
+    <string name="Email">Contattaci tramite e-mail</string>
+    <string name="Instagram">Dai unocchiata al nostro instagram</string>
+    <string name="Maps">Controlla la nostra posizione</string>
+
+    <string name="Text_Recognition">Riconoscimento del testo</string>
+    <string name="select_an_option">Seleziona un opzione</string>
+    <string name="Saved_Files">File salvati</string>
+</resources>

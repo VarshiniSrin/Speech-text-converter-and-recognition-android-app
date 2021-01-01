@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sprachtextkonverter</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="navigation_drawer_close">Navigationsschublade schließen</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigationsheader</string>
+    <string name="action_settings">die Einstellungen</string>
+
+    <string name="Home">Zuhause</string>
+    <string name="menu_share">Teilen</string>
+    <string name="menu_send">Senden</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">Über uns</string>
+    <string name="Privacy_Policy">Datenschutz-Bestimmungen</string>
+    <string name="FAQ">Häufig gestellte Fragen</string>
+
+
+
+    <string name="Speech_Text_Converter">Sprachtextkonverter</string>
+    <string name="Text_To_speech">Text zu Sprache</string>
+    <string name="Speech_To_text">Rede zum Text</string>
+    <string name="privacy">Wir haben diese App als kostenlose App erstellt. Dieser Service wird kostenlos zur Verfügung gestellt und ist für die unveränderte Nutzung vorgesehen. Diese Seite wird verwendet, um Besucher über unsere Richtlinien bezüglich der Erfassung, Verwendung und Offenlegung persönlicher Informationen zu informieren.
+
+    \n\nInformationssammlung und -verwendung
+    \nWir sammeln keine Informationen über die Benutzer unserer App.
+
+    \n\nCookies
+    \nDieser Dienst verwendet keine Cookies.
+
+    \n\nDienstanbieter
+    \nWir beschäftigen keine Drittunternehmen oder Einzelpersonen.
+
+    \n\nÄndert diese Datenschutzrichtlinie
+    \nWir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Es wird daher empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen.
+
+    \n\nDatenschutzrichtlinie auf dieser Seite
+    \nDiese Richtlinie gilt ab dem 31.12.2020.</string>
+
+
+
+    <string name="User_Interface">Benutzeroberfläche</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">ButtonBar ausblenden, wenn die Tastatur geöffnet ist</string>
+    <string name="Enable_dark_mode">Aktivieren Sie den Dunkelmodus</string>
+    <string name="Speak_into_the_mic">Sprich ins Mikrofon</string>
+    <string name="Enter_Text">Text eingeben</string>
+    <string name="Pitch">Tonhöhe</string>
+    <string name="Speed">Geschwindigkeit</string>
+    <string name="Languages">Sprachen</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">OK</string>
+    <string name="Enable_Dark_Mode">Aktivieren Sie den Dunkelmodus</string>
+    <string name="Disable_Dark_Mode">Deaktiviere den Dunkelmodus</string>
+
+    <string name="Browser">Besuche unsere Webseite</string>
+    <string name="Email">Kontaktieren Sie uns per E-Mail</string>
+    <string name="Instagram">Schauen Sie sich unser Instagram an</string>
+    <string name="Maps">Schauen Sie sich unseren Standort an</string>
+
+    <string name="Text_Recognition">Texterkennung</string>
+    <string name="select_an_option">Wähle eine Option</string>
+    <string name="Saved_Files">Gespeicherte Dateien</string>
+</resources>

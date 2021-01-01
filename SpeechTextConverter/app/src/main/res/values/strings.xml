@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Speech Text Converter</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Home">Home</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">About Us</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="FAQ">FAQ</string>
+
+
+    <string name="Speech_Text_Converter">Speech Text Converter</string>
+    <string name="Text_To_speech">Text to speech</string>
+    <string name="Speech_To_text">Speech to text</string>
+    <string name="privacy">We built this app as a free app. This service is provided at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal Information.\n\nInformation Collection and Use\nWe do not collect any information of our app\'s users.\n\nCookies\nThis service does not use cookies.\n\nService Providers\nWe do not employ any third–party companies or individuals.\n\nChanges to This Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.\n\nPrivacy Policy on this page\nThis policy is effective as of 31/12/2020.</string>
+    <string name="User_Interface">User Interface</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">Hide ButtonBar When Keyboard Open</string>
+    <string name="Enable_dark_mode">Enable dark mode</string>
+    <string name="Speak_into_the_mic">Speak into the mic</string>
+    <string name="Enter_Text">Enter Text</string>
+    <string name="Pitch">Pitch</string>
+    <string name="Speed">Speed</string>
+    <string name="Languages">Languages</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">OK</string>
+    <string name="Enable_Dark_Mode">Enable Dark Mode</string>
+    <string name="Disable_Dark_Mode">Disable Dark Mode</string>
+
+    <string name="Browser">Visit our website</string>
+    <string name="Email">Contact us by email</string>
+    <string name="Instagram">Check out our instagram</string>
+    <string name="Maps">Check out our location</string>
+
+    <string name="Text_Recognition">Text Recognition</string>
+    <string name="select_an_option">Select an option</string>
+    <string name="Saved_Files">Saved Files</string>
+</resources>
+

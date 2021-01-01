@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音声テキストコンバータ</string>
+    <string name="title_activity_navigation">ナビゲーション</string>
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">ナビゲーションヘッダー</string>
+    <string name="action_settings">設定</string>
+
+    <string name="Home">ホーム</string>
+    <string name="menu_share">シェア</string>
+    <string name="menu_send">送信</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">私たちに関しては</string>
+    <string name="Privacy_Policy">個人情報保護方針</string>
+    <string name="FAQ">よくある質問</string>
+
+
+
+    <string name="Speech_Text_Converter">音声テキストコンバータ</string>
+    <string name="Text_To_speech">テキスト読み上げ</string>
+    <string name="Speech_To_text">テキストへのスピーチ</string>
+    <string name="privacy">このアプリは無料アプリとして作成しました。このサービスは無料で提供されており、そのまま使用することを目的としています。このページは、個人情報の収集、使用、開示に関するポリシーについて訪問者に通知するために使用されます。
+
+        \n\n情報の収集と使用
+        \nアプリのユーザーの情報は収集されません。
+
+        \n\nCookies
+        \nThisサービスはCookieを使用しません。
+
+        \n\nサービスプロバイダー
+        \nサードパーティの企業や個人を雇用していません。
+
+        \n\nこのプライバシーポリシーの変更
+        \nプライバシーポリシーは随時更新される場合があります。したがって、変更がないか定期的にこのページを確認することをお勧めします。
+
+        \n\nこのページのプライバシーポリシー
+        \nこのポリシーは2020年12月31日から有効です。</string>
+    <string name="User_Interface">ユーザーインターフェース</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">キーボードが開いているときにButtonBarを非表示にする</string>
+    <string name="Enable_dark_mode">ダークモードを有効にする</string>
+    <string name="Speak_into_the_mic">マイクに向かって話す</string>
+    <string name="Enter_Text">テキストを入力</string>
+    <string name="Pitch">ピッチ</string>
+    <string name="Speed">速度</string>
+    <string name="Languages">言語</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">OK</string>
+    <string name="Enable_Dark_Mode">ダークモードを有効にする</string>
+    <string name="Disable_Dark_Mode">ダークモードを無効にする</string>
+
+    <string name="Browser">当社のウェブサイトを訪問</string>
+    <string name="Email">メールでお問い合わせください</string>
+    <string name="Instagram">Instagramをチェックしてください</string>
+    <string name="Maps">私たちの場所をチェックしてください</string>
+
+    <string name="Text_Recognition">テキスト認識</string>
+    <string name="select_an_option">選択肢一つを選択してください</string>
+    <string name="Saved_Files">保存されたファイル</string>
+</resources>

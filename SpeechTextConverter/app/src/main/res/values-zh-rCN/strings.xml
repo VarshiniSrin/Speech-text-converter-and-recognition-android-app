@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">语音文字转换器</string>
+    <string name="title_activity_navigation">导航</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">导航标题</string>
+    <string name="action_settings">设定值</string>
+
+    <string name="Home">家</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_send">发送</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">关于我们</string>
+    <string name="Privacy_Policy">隐私政策</string>
+    <string name="FAQ">经常问的问题</string>
+
+
+    <string name="Speech_Text_Converter">语音文字转换器</string>
+    <string name="Text_To_speech">文字转语音</string>
+    <string name="Speech_To_text">文字语音</string>
+    <string name="privacy">我们将此应用程序构建为免费应用程序。此服务免费提供，旨在按原样使用。该页面用于通过个人信息的收集，使用和披露向访客告知我们的政策。
+
+        \n\n信息收集和使用
+        \n我们不收集我们应用程序用户的任何信息。
+
+        \n\nCookies
+        \n此服务不使用Cookie。
+
+        \n\n服务提供商
+        \n我们不雇用任何第三方公司或个人。
+
+        \n\n对此​​隐私政策的更改
+        \n我们可能会不时更新我们的隐私政策。因此，建议您定期查看此页面以进行任何更改。
+
+        \n\n此页上的隐私权政策
+        \n此政策自2020年12月31日起生效。</string>
+    <string name="User_Interface">用户界面</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">键盘打开时隐藏按钮栏</string>
+    <string name="Enable_dark_mode">启用黑暗模式</string>
+    <string name="Speak_into_the_mic">对着麦克风说话</string>
+    <string name="Enter_Text">输入文字</string>
+    <string name="Pitch">沥青</string>
+    <string name="Speed">速度</string>
+    <string name="Languages">语言能力</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">OK</string>
+    <string name="Enable_Dark_Mode">启用黑暗模式</string>
+    <string name="Disable_Dark_Mode">禁用黑暗模式</string>
+
+    <string name="Browser">访问我们的网站</string>
+    <string name="Email">通过电子邮件联系我们</string>
+    <string name="Instagram">看看我们的instagram</string>
+    <string name="Maps">查看我们的位置</string>
+
+    <string name="Text_Recognition">文字识别</string>
+    <string name="select_an_option">选择一个选项</string>
+    <string name="Saved_Files">保存的文件</string>
+</resources>

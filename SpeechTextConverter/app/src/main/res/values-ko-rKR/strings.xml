@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">음성 텍스트 변환기</string>
+    <string name="title_activity_navigation">항해</string>
+    <string name="navigation_drawer_open">탐색 창 열기</string>
+    <string name="navigation_drawer_close">탐색 창 닫기</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">탐색 헤더</string>
+    <string name="action_settings">설정</string>
+
+    <string name="Home">집</string>
+    <string name="menu_share">공유</string>
+    <string name="menu_send">보내다</string>
+    <string name="todo">TODO</string>
+
+    <string name="About_Us">회사 소개</string>
+    <string name="Privacy_Policy">개인 정보 정책</string>
+    <string name="FAQ">자주 묻는 질문</string>
+
+
+    <string name="Speech_Text_Converter">음성 텍스트 변환기</string>
+    <string name="Text_To_speech">텍스트 음성 변환</string>
+    <string name="Speech_To_text">텍스트 음성</string>
+    <string name="privacy">우리는이 앱을 무료 앱으로 만들었습니다. 이 서비스는 무료로 제공되며 그대로 사용하도록되어 있습니다. 이 페이지는 방문자에게 개인 정보의 수집, 사용 및 공개와 관련된 당사 정책에 대해 알리는 데 사용됩니다.
+
+        \n\n정보 수집 및 사용
+        \n우리는 앱 사용자의 정보를 수집하지 않습니다.
+
+        \n\n쿠키
+        \n이 서비스는 쿠키를 사용하지 않습니다.
+
+        \n\n서비스 제공 업체
+        \n우리는 제 3 자 회사 나 개인을 고용하지 않습니다.
+
+        \n\n이 개인 정보 보호 정책의 변경
+        \n개인 정보 보호 정책은 수시로 업데이트 될 수 있습니다. 따라서 변경 사항이 있는지이 페이지를 주기적으로 검토하는 것이 좋습니다.
+
+        \n\n이 페이지의 개인 정보 보호 정책
+        \n이 정책은 2020 년 12 월 31 일부터 유효합니다.</string>
+    <string name="User_Interface">사용자 인터페이스</string>
+    <string name="Hide_ButtonBar_When_Keyboard_Open">키보드가 열릴 때 ButtonBar 숨기기</string>
+    <string name="Enable_dark_mode">다크 모드 활성화</string>
+    <string name="Speak_into_the_mic">마이크에 대고 말하기</string>
+    <string name="Enter_Text">텍스트 입력</string>
+    <string name="Pitch">피치</string>
+    <string name="Speed">속도</string>
+    <string name="Languages">언어</string>
+    <string name="English">English</string>
+    <string name="Hindi">हिंदी</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Marathi">मराठी</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Tamil">தமிழ்</string>
+    <string name="Japanese">日本人</string>
+    <string name="Chinese">中文</string>
+    <string name="French">Français</string>
+    <string name="German">Deutsche</string>
+    <string name="Italian">Italiana</string>
+    <string name="Korean">한국어</string>
+    <string name="OK">확인</string>
+    <string name="Enable_Dark_Mode">다크 모드 활성화</string>
+    <string name="Disable_Dark_Mode">다크 모드 비활성화</string>
+
+    <string name="Browser">우리 홈페이지에 방문 해주세요</string>
+    <string name="Email">이메일로 문의</string>
+    <string name="Instagram">Instagram 확인</string>
+    <string name="Maps">위치 확인</string>
+
+    <string name="Text_Recognition">텍스트 인식</string>
+    <string name="select_an_option">옵션을 선택하세요</string>
+    <string name="Saved_Files">저장된 파일</string>
+</resources>
